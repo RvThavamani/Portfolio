@@ -293,7 +293,7 @@ section .title::after {
 }
 li:hover {
   color: #fbfb0e;
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .skill {
